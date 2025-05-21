@@ -23,3 +23,38 @@ go.work.sum
 
 # env file
 .env
+
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+# Hugo or build-related locks
+.build.lock
+.hugo_build.lock
+
+# Hugo modules
+/hugo_cache/
+
+# Node (if you use npm for theme install or tooling)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Optional: ignore Blowfish example content
+exampleSite/
+
+# IDE junk
+.idea/
+*.iml
