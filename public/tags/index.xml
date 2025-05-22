@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ball &amp; Train | IB Sports Academy</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Ball &amp; Train | IB Sports Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
+    <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
+    <copyright>© 2025 Ishwar Bhati</copyright>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Basketball</title>
+      <link>//localhost:1313/tags/basketball/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/basketball/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>//localhost:1313/tags/events/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/events/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>//localhost:1313/tags/training/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/training/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>China Games</title>
+      <link>//localhost:1313/tags/china-games/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/china-games/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IB Sports Academy</title>
+      <link>//localhost:1313/tags/ib-sports-academy/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/ib-sports-academy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NBA</title>
+      <link>//localhost:1313/tags/nba/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/nba/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

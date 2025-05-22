@@ -25,7 +25,7 @@ go.work.sum
 .env
 
 # Hugo build output
-/public/
+# /public/
 /resources/_gen/
 /assets/jsconfig.json
 

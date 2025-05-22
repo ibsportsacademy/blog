@@ -1,11 +1,11 @@
 ---
 title: "IB Sports Academy Launches First Basketball Camp"
-date: 2025-05-21
-description: "Our first official basketball camp is here! Get ready for an intense, fun-filled week of skill-building, team spirit, and high-performance training."
+date: 2017-05-21
+summary: "Our first official basketball camp is here! Get ready for an intense, fun-filled week of skill-building, team spirit, and high-performance training."
 tags: ["basketball", "training", "events"]
 categories: ["Academy Updates"]
-author: "Coach Arjun"
-image: "images/blog/camp-banner.jpg"  # optional if you add an image
+author: "Ishwar Bhati"
+image: "cover.png"  # optional if you add an image
 draft: false
 ---
 
