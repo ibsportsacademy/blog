@@ -9,16 +9,26 @@
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ib-sports-academy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ib-sports-academy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>NBA CHINA GAMES 2018</title>
+      <title>Marvel Basketball – The Champion in the Making</title>
+      <link>//localhost:1313/posts/marvel-basketball-bhuvanesh-rajagopal/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/posts/marvel-basketball-bhuvanesh-rajagopal/</guid>
+      <description>Bhuvanesh Rajagopal shares how training at IB Sports Academy under Coach Ishwar Bhati laid the foundation for his basketball and academic journey. His story reflects the power of discipline, mentorship, and balance.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/marvel-basketball-bhuvanesh-rajagopal/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>NBA China Games 2018</title>
       <link>//localhost:1313/posts/nba-china-games/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
       <guid>//localhost:1313/posts/nba-china-games/</guid>
-      <description></description>
-      
+      <description>Coach Ishwar Bhati represented India at the NBA China Games 2018, bringing back valuable experience to advance basketball coaching at IB Sports Academy.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/nba-china-games/cover.png" />
     </item>
     
   </channel>

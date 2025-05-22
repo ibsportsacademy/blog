@@ -9,12 +9,12 @@
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Basketball</title>
       <link>//localhost:1313/tags/basketball/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
       <guid>//localhost:1313/tags/basketball/</guid>
       <description></description>
@@ -22,21 +22,81 @@
     </item>
     
     <item>
-      <title>Events</title>
-      <link>//localhost:1313/tags/events/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <title>Football</title>
+      <link>//localhost:1313/tags/football/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/tags/events/</guid>
+      <guid>//localhost:1313/tags/football/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Training</title>
-      <link>//localhost:1313/tags/training/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <title>Indian Super League</title>
+      <link>//localhost:1313/tags/indian-super-league/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/tags/training/</guid>
+      <guid>//localhost:1313/tags/indian-super-league/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NBA</title>
+      <link>//localhost:1313/tags/nba/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/nba/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>//localhost:1313/tags/sports/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/sports/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Student-Athlete</title>
+      <link>//localhost:1313/tags/student-athlete/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/student-athlete/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Youth Training</title>
+      <link>//localhost:1313/tags/youth-training/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/youth-training/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bhuvanesh Rajagopal</title>
+      <link>//localhost:1313/tags/bhuvanesh-rajagopal/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/bhuvanesh-rajagopal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IB Sports Academy</title>
+      <link>//localhost:1313/tags/ib-sports-academy/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/tags/ib-sports-academy/</guid>
       <description></description>
       
     </item>
@@ -52,21 +112,21 @@
     </item>
     
     <item>
-      <title>IB Sports Academy</title>
-      <link>//localhost:1313/tags/ib-sports-academy/</link>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Events</title>
+      <link>//localhost:1313/tags/events/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/tags/ib-sports-academy/</guid>
+      <guid>//localhost:1313/tags/events/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>NBA</title>
-      <link>//localhost:1313/tags/nba/</link>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Training</title>
+      <link>//localhost:1313/tags/training/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/tags/nba/</guid>
+      <guid>//localhost:1313/tags/training/</guid>
       <description></description>
       
     </item>

@@ -1,5 +1,5 @@
 ---
-title: "NBA CHINA GAMES 2018"
+title: "NBA China Games 2018"
 date: 2018-06-19
 draft: false
 description: "NBA flies Indian Basketball coach to China for the NBA event"
@@ -13,8 +13,8 @@ heroStyle: background
 ## Selected for NBA China Games
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="cover.png" alt="Coach Ishwar Bhati (Delhi) among the 8 Indian coaches selected to attend NBA China Games in Shanghai and Shenzhen" style="max-width: 100%;" />
-  <figcaption style="font-style: italic;">Coach Ishwar Bhati (Delhi) among the 8 Indian coaches selected to attend NBA China Games in Shanghai and Shenzhen</figcaption>
+  <img src="cover.png" alt="Coach Ishwar Bhati (Delhi) among the 8 Indian coaches selected to attend NBA China Games in Shanghai and Shenzhen." style="max-width: 100%;" />
+  <figcaption style="font-style: italic;">Coach Ishwar Bhati (Delhi) among the 8 Indian coaches selected to attend NBA China Games in Shanghai and Shenzhen.</figcaption>
 </figure>
 
 **NEW DELHI:** Delhi based physical education teacher Mr. Ishwar Bhati was recommended by NBA India for his exceptional achievements in field of Basketball. He was selected as the Best Coach during the Reliance Foundation Jr. NBA youth basketball development programme 2017-18, held in Delhi. He was gratified with an invitation for NBA experience trip along with NBA representatives in Shanghai, China.

@@ -9,14 +9,24 @@
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Academy Updates</title>
-      <link>//localhost:1313/categories/academy-updates/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <title>Sports Analysis</title>
+      <link>//localhost:1313/categories/sports-analysis/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/categories/academy-updates/</guid>
+      <guid>//localhost:1313/categories/sports-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Community Outreach</title>
+      <link>//localhost:1313/categories/community-outreach/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/categories/community-outreach/</guid>
       <description></description>
       
     </item>
@@ -24,9 +34,19 @@
     <item>
       <title>Events</title>
       <link>//localhost:1313/categories/events/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
       <guid>//localhost:1313/categories/events/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Academy Updates</title>
+      <link>//localhost:1313/categories/academy-updates/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>//localhost:1313/categories/academy-updates/</guid>
       <description></description>
       
     </item>

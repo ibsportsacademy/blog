@@ -17,11 +17,19 @@
 
 [[main]]
  name = "About"
+ pageRef = "about"
  weight = 20
 
 [[main]]
  name = "Contact"
+ pageRef = "contact"
  weight = 30
+
+[[main]]
+ identifier = "web"
+ pre = "link"
+ url = "https://ibsportsacademy.com/"
+ weight = 40
 
 # [[main]]
 #  name = "Parent"
@@ -55,10 +63,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
- name = "Tags"
- pageRef = "tags"
- weight = 40
+# [[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 40
 
 
 # -- Footer Menu --
