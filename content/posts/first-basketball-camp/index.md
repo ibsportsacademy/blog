@@ -1,6 +1,7 @@
 ---
 title: "IB Sports Academy Launches First Basketball Camp"
 date: 2017-05-21
+description: "First official basketball camp of IB Sports Academy! An intense, fun-filled week of skill-building, team spirit, and high-performance training."
 summary: "Our first official basketball camp is here! Get ready for an intense, fun-filled week of skill-building, team spirit, and high-performance training."
 tags: ["basketball", "training", "events"]
 categories: ["Academy Updates"]
@@ -49,3 +50,12 @@ Limited spots available. Early bird discount until **May 31st**.
 
 See you on the court!  
 *#TrainWithIB #BasketballCamp #IBSportsAcademy*
+
+## 🏀 Ready to Elevate Your Game?
+
+Join the movement! At **IB Sports Academy**, we’re not just building ballers — we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
+
+👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
+🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
+
+💬 Have thoughts or questions? [Connect with us](https://ibsportsacademy.github.io/blog/contact/) or share this post with a fellow baller!

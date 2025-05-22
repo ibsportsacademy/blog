@@ -2,6 +2,7 @@
 title: "Marvel Basketball – The Champion in the Making"
 date: 2021-05-26
 author: "Ishwar Bhati"
+description: "Bhuvanesh Rajagopal experience at IB Sports Academy under head coach Ishwar Bhati. Foundation of basketball and academic journey. Power of discipline, mentorship, and balance."
 summary: "Bhuvanesh Rajagopal shares how training at IB Sports Academy under Coach Ishwar Bhati laid the foundation for his basketball and academic journey. His story reflects the power of discipline, mentorship, and balance."
 tags: ["basketball", "IB Sports Academy", "student athlete", "Bhuvanesh Rajagopal"]
 heroStyle: background
@@ -10,7 +11,7 @@ heroStyle: background
 <h2 style="text-align: center;">Meet Bhuvanesh Rajagopal</h2>
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="bhuvanesh-1.jpg" alt="Iowa State University, USA | B.Sc Electrical Engineering | Former Student, IB Sports Academy (2013–2017)." style="max-width: 100%;" />
+  <img src="bhuvanesh-1.jpg" alt="Bhuvanesh Rajagopal Iowa State University, USA | B.Sc Electrical Engineering | Former Student, IB Sports Academy (2013–2017)." style="max-width: 100%;" />
   <figcaption style="font-style: italic;">Iowa State University, USA | B.Sc Electrical Engineering <br /> Former Student, IB Sports Academy (2013–2017).</figcaption>
 </figure>
 
@@ -31,7 +32,7 @@ He helped me to shoot the basketball much better as well as **work on my weaknes
 
 As a **student-athlete**, I have understood the importance of involving sports in my life alongside my studies. Not only does it give me a **break from studying and a chance to refocus myself, but having some form of exercise leaves me feeling energetic throughout the day.**
 
-![](bhuvanesh-2.jpg)
+![Bhuvanesh Gopal now in USA, playing Basketball - IB Sports Academy](bhuvanesh-2.jpg)
 
 Dedicating time to basketball as well as studies helped me **improve my time management skills drastically**. I have to be responsible enough to make sure I use my time wisely. This made me much more conscious of how I spend my time as well as how to study more efficiently.
 
@@ -42,9 +43,18 @@ Dedicating time to basketball as well as studies helped me **improve my time man
 The most important thing I learnt playing basketball is **hard work and perseverance**. There is no replacement for hard work, and playing sports has helped me to bring that relentlessness into my studies and day-to-day life.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="cover.jpg" alt="Bhuvanesh Rajagopal playing Basketball at McLean High School (2017–2020)." style="max-width: 100%;" />
+  <img src="cover.jpg" alt="Bhuvanesh Rajagopal playing Basketball at McLean High School (2017–2020) - IB Sports Academy." style="max-width: 100%;" />
   <figcaption style="font-style: italic;">Bhuvanesh Rajagopal playing Basketball at McLean High School (2017–2020).</figcaption>
 </figure>
+
+## 🏀 Ready to Elevate Your Game?
+
+Join the movement! At **IB Sports Academy**, we’re not just building ballers — we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
+
+👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
+🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
+
+💬 Have thoughts or questions? [Connect with us](https://ibsportsacademy.github.io/blog/contact/) or share this post with a fellow baller!
 
 ## Comments
 

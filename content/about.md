@@ -26,7 +26,7 @@ To create a platform where young athletes thrive — not just on the court, but 
 
 Head Coach Ishwar Bhati is the driving force behind IB Sports Academy. A certified **Indian National Coach** and Physical Education Teacher at **ITL Public School, New Delhi**, he brings over **15 years of professional experience** in developing athletes and organizing major sporting events.
 
-![Head Coach Ishwar Bhati](profile_pic.png)
+![Head Coach Ishwar Bhati - IB Sports Academy](profile_pic.png)
 
 ### 🏆 Career Highlights
 

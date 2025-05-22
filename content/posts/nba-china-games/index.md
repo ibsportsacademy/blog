@@ -1,8 +1,8 @@
 ---
-title: "NBA China Games 2018"
+title: "🇨🇳 NBA China Games 2018 - Shanghai & Shenzhen"
 date: 2018-06-19
 draft: false
-description: "NBA flies Indian Basketball coach to China for the NBA event"
+description: "NBA flies Indian Basketball coach Ishwar Bhati to China for the NBA event"
 tags: ["NBA", "China Games", "Basketball", "IB Sports Academy"]
 categories: ["Events"]
 author: "Ishwar Bhati"
@@ -21,7 +21,7 @@ heroStyle: background
 
 > ISHWAR, head coach at IB Sports Academy, Dwarka, New Delhi, was picked along with seven other Indian coaches from various cities across India for travel to China to attend the premier US basketball league's showpiece Asian event which was held at the Chinese cities of Shanghai and Shenzhen.
 
-![](china-court-ishwar.jpg)
+![Ishwar Bhati at Basketball court in Shanghai and Shenzhen in China](china-court-ishwar.jpg)
 
 ## Indian Coaches Selected
 
@@ -43,3 +43,12 @@ Also, his Basketball academy **IB SPORTS ACADEMY** pursues each age group, not o
   <img src="ishwar-oversee.jpg" alt="A key reformer in students' lives, Ishwar has overseen all aspects of player development and coaching student-athletes for high school age prospects." style="max-width: 100%;" />
   <figcaption style="font-style: italic;">A key reformer in students' lives, Ishwar has overseen all aspects of player development and coaching student-athletes for high school age prospects.</figcaption>
 </figure>
+
+## 🏀 Ready to Elevate Your Game?
+
+Join the movement! At **IB Sports Academy**, we’re not just building ballers — we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
+
+👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
+🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
+
+💬 Have thoughts or questions? [Connect with us](https://ibsportsacademy.github.io/blog/contact/) or share this post with a fellow baller!

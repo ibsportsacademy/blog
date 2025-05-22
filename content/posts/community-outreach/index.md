@@ -2,6 +2,7 @@
 title: "Community Outreach: Training student-athletes at Don Bosco Ashalayam"
 date: 2021-08-13
 author: "Ishwar Bhati"
+description: "Community outreach program offering basketball training to underprivileged youth and teaching life skills like teamwork and discipline through sports - Basketball by IB Sports Academy."
 summary: "Launched a community outreach program offering basketball training to underprivileged youth and teaching life skills like teamwork and discipline through sports."
 tags: ["basketball", "youth training", "student-athlete"]
 categories: ["Community Outreach"]
@@ -40,10 +41,15 @@ One of the key components for coaches is to teach the student-athletes about ser
 
 {{< youtube A2_0ac1wyoI >}}
 
-![](don-bosco-3.jpg)
+![student-athlete of Don Bosco, doing basketball drills training athletes by IB Sports Academy](don-bosco-3.jpg)
 
 As the first step towards community outreach, we have collaborated with Don Bosco Ashalayam, New Delhi. The kind of enthusiasm they showed while training was beyond anything that we have ever seen. Dedicating our time and efforts to a community that truly deserves it made it possible for us to conduct our program with them. With this, we hope to have many such programs and we hope to conduct many more workshops for a better and brighter future.
 
-## Join the Movement
+## 🏀 Ready to Elevate Your Game?
 
-If you have any queries regarding any of our recent programs or would like to join us, feel free to contact us at 📞 +91-8860500060 or 🌐 visit our website [IB Sports Academy](http://www.ibsportsacademy.com).
+Join the movement! At **IB Sports Academy**, we’re not just building ballers — we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
+
+👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
+🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
+
+💬 Have thoughts or questions? [Connect with us](https://ibsportsacademy.github.io/blog/contact/) or share this post with a fellow baller!

@@ -1,9 +1,10 @@
 ---
-title: "Is Basketball Becoming a Popular Game in India?"
+title: "Is Basketball Becoming a Popular Game in 🇮🇳 India?"
 date: 2022-11-06
 author: "Ishwar Bhati"
 tags: ["basketball", "sports", "football", "Indian Super League", "NBA"]
 categories: ["Sports Analysis"]
+description: "Basketball becoming popular in India, Delhi, professional leagues	and youth interest. Getting closer to Cricket or Football and has mainstream potential."
 summary: "Basketball is gaining traction in India, thanks to professional leagues, and rising youth interest. While not yet as dominant as cricket or football, its momentum suggests a growing fanbase and mainstream potential."
 heroStyle: background
 draft: false
@@ -13,7 +14,7 @@ draft: false
 
 Basketball is a popular sport in India and is played by millions of people daily. Basketball is a team sport and is played at both professional and collegiate levels. Basketball is a game of strategy as players have to work together on the court to score baskets. The rules of basketball are universal and can be adapted to various formats to suit the needs of the players and the spectators.
 
-![Basketball Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwYWprcGQ0cnMyMG9yOW42Y2x1Z3RvemkzODZjcWt5cmUxeG40dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBoJJXx3Kqcww67yEh/giphy.gif)
+![Basketball Funny Gif - IB Sports Academy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwYWprcGQ0cnMyMG9yOW42Y2x1Z3RvemkzODZjcWt5cmUxeG40dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBoJJXx3Kqcww67yEh/giphy.gif)
 
 **The popularity of basketball in India is on the rise thanks to the Indian Super League and the NBA.** Basketball has become a stable career for many people in India. Many people from rural areas now seek a livelihood playing professional basketball in India. **This has effectively transformed a once-neglected sport into one that has widespread support.** As more people seek to make a living from basketball, the sport will only gain momentum in India.
 
@@ -31,14 +32,23 @@ The Indian Super League has brought basketball to many Indian fans. The Indian S
 
 > Basketball matches now have higher attendance than other sports in major Indian cities.
 
-![](basketball-popular-1.jpg)
+![Girls Student-Athlete playing competitive basketball at IB Sports Academy.](basketball-popular-1.jpg)
 
 ## Looking Ahead
 
 Basketball is gaining popularity among Indian fans thanks to professional leagues, television broadcasts, and high attendance numbers at stadiums. The success of the Indian Super League has made basketball more accessible for new fans and given it a boost among existing ones.
 
-![](basketball-popular-2.jpg)
+![Tall student athlete dunking basketball at IB Sports Academy. He can reach basket while standing.](basketball-popular-2.jpg)
 
 > Over time, this increase in popularity will see an increase in player wages and lead to better facilities for athletes training for the games competitive nature will only increase this support further!
 
 {{< youtube Nir3pkocgPA >}}
+
+## 🏀 Ready to Elevate Your Game?
+
+Join the movement! At **IB Sports Academy**, we’re not just building ballers — we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
+
+👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
+🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
+
+💬 Have thoughts or questions? [Connect with us](https://ibsportsacademy.github.io/blog/contact/) or share this post with a fellow baller!

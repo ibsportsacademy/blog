@@ -41,6 +41,7 @@ googleAnalytics = "G-XW6ETYRKN9"
 [related]
   threshold = 0
   toLower = false
+  includeNewer = true
 
     [[related.indices]]
         name = "tags"
