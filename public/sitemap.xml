@@ -3,162 +3,162 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/basketball/</loc>
+    <loc>http://localhost:1313/tags/basketball/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/football/</loc>
+    <loc>http://localhost:1313/tags/football/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/indian-super-league/</loc>
+    <loc>http://localhost:1313/tags/indian-super-league/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/is-basketball-popular/</loc>
+    <loc>http://localhost:1313/posts/is-basketball-popular/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/nba/</loc>
+    <loc>http://localhost:1313/tags/nba/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/sports/</loc>
+    <loc>http://localhost:1313/tags/sports/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/sports-analysis/</loc>
+    <loc>http://localhost:1313/categories/sports-analysis/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/community-outreach/</loc>
+    <loc>http://localhost:1313/categories/community-outreach/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/community-outreach/</loc>
+    <loc>http://localhost:1313/posts/community-outreach/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/student-athlete/</loc>
+    <loc>http://localhost:1313/tags/student-athlete/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/youth-training/</loc>
+    <loc>http://localhost:1313/tags/youth-training/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/bhuvanesh-rajagopal/</loc>
+    <loc>http://localhost:1313/tags/bhuvanesh-rajagopal/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/ib-sports-academy/</loc>
+    <loc>http://localhost:1313/tags/ib-sports-academy/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/marvel-basketball-bhuvanesh-rajagopal/</loc>
+    <loc>http://localhost:1313/posts/marvel-basketball-bhuvanesh-rajagopal/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/nba-china-games/</loc>
+    <loc>http://localhost:1313/posts/nba-china-games/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/china-games/</loc>
+    <loc>http://localhost:1313/tags/china-games/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/events/</loc>
+    <loc>http://localhost:1313/categories/events/</loc>
     <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/academy-updates/</loc>
+    <loc>http://localhost:1313/categories/academy-updates/</loc>
     <lastmod>2017-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/events/</loc>
+    <loc>http://localhost:1313/tags/events/</loc>
     <lastmod>2017-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/first-basketball-camp/</loc>
+    <loc>http://localhost:1313/posts/first-basketball-camp/</loc>
     <lastmod>2017-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/training/</loc>
+    <loc>http://localhost:1313/tags/training/</loc>
     <lastmod>2017-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

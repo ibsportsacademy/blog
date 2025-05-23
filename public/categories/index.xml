@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ball &amp; Train | IB Sports Academy</title>
-    <link>//localhost:1313/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Ball &amp; Train | IB Sports Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sports Analysis</title>
-      <link>//localhost:1313/categories/sports-analysis/</link>
+      <link>http://localhost:1313/categories/sports-analysis/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/categories/sports-analysis/</guid>
+      <guid>http://localhost:1313/categories/sports-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Community Outreach</title>
-      <link>//localhost:1313/categories/community-outreach/</link>
+      <link>http://localhost:1313/categories/community-outreach/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/categories/community-outreach/</guid>
+      <guid>http://localhost:1313/categories/community-outreach/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Events</title>
-      <link>//localhost:1313/categories/events/</link>
+      <link>http://localhost:1313/categories/events/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/categories/events/</guid>
+      <guid>http://localhost:1313/categories/events/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Academy Updates</title>
-      <link>//localhost:1313/categories/academy-updates/</link>
+      <link>http://localhost:1313/categories/academy-updates/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/categories/academy-updates/</guid>
+      <guid>http://localhost:1313/categories/academy-updates/</guid>
       <description></description>
       
     </item>

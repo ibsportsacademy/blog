@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>China Games on Ball &amp; Train | IB Sports Academy</title>
-    <link>//localhost:1313/tags/china-games/</link>
+    <link>http://localhost:1313/tags/china-games/</link>
     <description>Recent content in China Games on Ball &amp; Train | IB Sports Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/china-games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/china-games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🇨🇳 NBA China Games 2018 - Shanghai &amp; Shenzhen</title>
-      <link>//localhost:1313/posts/nba-china-games/</link>
+      <link>http://localhost:1313/posts/nba-china-games/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/posts/nba-china-games/</guid>
+      <guid>http://localhost:1313/posts/nba-china-games/</guid>
       <description>Coach Ishwar Bhati represented India at the NBA China Games 2018, bringing back valuable experience to advance basketball coaching at IB Sports Academy.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/nba-china-games/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nba-china-games/cover.png" />
     </item>
     
   </channel>

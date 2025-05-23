@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Ball &amp; Train | IB Sports Academy</title>
-    <link>//localhost:1313/tags/events/</link>
+    <link>http://localhost:1313/tags/events/</link>
     <description>Recent content in Events on Ball &amp; Train | IB Sports Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Sun, 21 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IB Sports Academy Launches First Basketball Camp</title>
-      <link>//localhost:1313/posts/first-basketball-camp/</link>
+      <link>http://localhost:1313/posts/first-basketball-camp/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/posts/first-basketball-camp/</guid>
+      <guid>http://localhost:1313/posts/first-basketball-camp/</guid>
       <description>Our first official basketball camp is here! Get ready for an intense, fun-filled week of skill-building, team spirit, and high-performance training.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/first-basketball-camp/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-basketball-camp/cover.png" />
     </item>
     
   </channel>

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NBA on Ball &amp; Train | IB Sports Academy</title>
-    <link>//localhost:1313/tags/nba/</link>
+    <link>http://localhost:1313/tags/nba/</link>
     <description>Recent content in NBA on Ball &amp; Train | IB Sports Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
     <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
     <copyright>© 2025 Ishwar Bhati</copyright>
-    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/nba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nba/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Is Basketball Becoming a Popular Game in 🇮🇳 India?</title>
-      <link>//localhost:1313/posts/is-basketball-popular/</link>
+      <link>http://localhost:1313/posts/is-basketball-popular/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/posts/is-basketball-popular/</guid>
+      <guid>http://localhost:1313/posts/is-basketball-popular/</guid>
       <description>Basketball is gaining traction in India, thanks to professional leagues, and rising youth interest. While not yet as dominant as cricket or football, its momentum suggests a growing fanbase and mainstream potential.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/is-basketball-popular/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/is-basketball-popular/cover.jpg" />
     </item>
     
     <item>
       <title>🇨🇳 NBA China Games 2018 - Shanghai &amp; Shenzhen</title>
-      <link>//localhost:1313/posts/nba-china-games/</link>
+      <link>http://localhost:1313/posts/nba-china-games/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
       <author>academyibsports@gmail.com (Ishwar Bhati)</author>
-      <guid>//localhost:1313/posts/nba-china-games/</guid>
+      <guid>http://localhost:1313/posts/nba-china-games/</guid>
       <description>Coach Ishwar Bhati represented India at the NBA China Games 2018, bringing back valuable experience to advance basketball coaching at IB Sports Academy.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/nba-china-games/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/nba-china-games/cover.png" />
     </item>
     
   </channel>
