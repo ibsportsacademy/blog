@@ -20,7 +20,7 @@ In a country where cricket often overshadows other sports, something extraordina
 Over weeks of collaboration, IB provided more than just basketball courts. We provided **youth athletes, creative feedback, location access, technical guidance**, and most importantly — **authenticity**. This wasn’t just a shoot. It was a shared mission.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="aamir-khan-directing-sitaare-zameen-par.jpg" alt="Aamir Khan directing Sitaare Zameen Par Movie meeting Ishwar Bhati IB Sports Academy" style="max-width: 50%;" />
+  <img src="aamir-khan-directing-sitaare-zameen-par-ib.jpg" alt="Aamir Khan directing Sitaare Zameen Par Movie meeting Ishwar Bhati IB Sports Academy" style="max-width: 50%;" />
   <figcaption style="font-style: italic;">Reel Meets Real — Aamir Khan steps into character as the coach, guided by the real one: Ishwar Bhati, the Head Coach of IB Sports Academy.</figcaption>
 </figure>
 
