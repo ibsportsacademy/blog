@@ -51,4 +51,4 @@ Join the movement! At **IB Sports Academy**, we’re not just building ballers �
 👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
 🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
 
-💬 Have thoughts or questions? [Connect with us](https://ibsportsacademy.github.io/blog/contact/) or share this post with a fellow baller!
+💬 Have thoughts or questions? [Connect with us](https://blog.ibsportsacademy.com/contact/) or share this post with a fellow baller!

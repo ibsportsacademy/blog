@@ -31,10 +31,10 @@ Dwarka, New Delhi, India
 
 Stay connected for training updates, behind-the-scenes stories, and student achievements.
 
-- {{< icon "instagram" >}} [Instagram](https://www.instagram.com/ibsportsacademy/)  
-- {{< icon "youtube" >}} [YouTube](https://www.youtube.com/@IBSportsAcademy)  
-- {{< icon "facebook" >}} [Facebook](https://www.facebook.com/ibsportsacademy/)
-- {{< icon "x-twitter" >}} [X (Twitter)](https://x.com/ibsportsacademy)
+- [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/)  
+- [{{< icon "youtube" >}} YouTube](https://www.youtube.com/@IBSportsAcademy)  
+- [{{< icon "facebook" >}} Facebook](https://www.facebook.com/ibsportsacademy/)
+- [{{< icon "x-twitter" >}} X (Twitter)](https://x.com/ibsportsacademy)
 
 
 ## 📝 Interested in Joining?
