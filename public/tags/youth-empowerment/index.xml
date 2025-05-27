@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youth Empowerment on Ball &amp; Train | IB Sports Academy</title>
+    <link>http://localhost:1313/tags/youth-empowerment/</link>
+    <description>Recent content in Youth Empowerment on Ball &amp; Train | IB Sports Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>academyibsports@gmail.com (Ishwar Bhati)</managingEditor>
+    <webMaster>academyibsports@gmail.com (Ishwar Bhati)</webMaster>
+    <copyright>© 2025 Ishwar Bhati</copyright>
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/youth-empowerment/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IB Sports Academy x Aamir Khan: A Cinematic Slam Dunk with Sitaare Zameen Par</title>
+      <link>http://localhost:1313/posts/aamir-khan-ib-stars-meet/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <author>academyibsports@gmail.com (Ishwar Bhati)</author>
+      <guid>http://localhost:1313/posts/aamir-khan-ib-stars-meet/</guid>
+      <description>A behind-the-scenes journey into the powerful collaboration between IB Sports Academy and Aamir Khan Productions for the movie &amp;lsquo;Sitaare Zameen Par&amp;rsquo; — where Bollywood and grassroots basketball unite.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aamir-khan-ib-stars-meet/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
