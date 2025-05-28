@@ -30,7 +30,7 @@ It all culminated in a celebratory photoshoot and heartfelt interaction session,
 
 ## 🏀 From Coaching Drills to Camera Rolls
 
-Imagine the scene: bright-eyed athletes aged 12 to 17, jerseys crisp, sneakers laced, hearts pounding. Not for a final buzzer shot, but to share space with a man who’s been inspiring India for decades.
+Imagine the scene: bright-eyed athletes, jerseys crisp, sneakers laced, hearts pounding. Not for a final buzzer shot, but to share space with a man who’s been inspiring India for decades.
 
 Aamir didn’t come to watch a match. He came to thank. To listen. To inspire. The players from Delhi stood proudly alongside him, not as extras, but as **collaborators** in a story bigger than themselves.
 
@@ -72,7 +72,7 @@ That’s why IB Sports made sense.
 For our students, this wasn’t just a photo op. This was representation. This was proof that what they do matters — not just in the eyes of a coach, but in the lens of a camera that will show their world to millions.
 
 > *“I've seen Aamir Khan on screen all my life. Today, he saw me. That changes everything.”*
-> — An IB Academy player, age 14
+> — An IB Academy player
 
 They’ll never forget the handshake. The laughter. The moment they became part of a bigger story.
 
