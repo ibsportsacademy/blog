@@ -11,6 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ identifier = "web"
+ pre = "house"
+ url = "https://ibsportsacademy.com/"
+ weight = 1
+
+[[main]]
  name = "Posts"
  pageRef = "posts"
  weight = 10
@@ -24,12 +30,6 @@
  name = "Contact"
  pageRef = "contact"
  weight = 30
-
-[[main]]
- identifier = "web"
- pre = "link"
- url = "https://ibsportsacademy.com/"
- weight = 40
 
 # [[main]]
 #  name = "Parent"
@@ -72,6 +72,27 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  identifier = "web"
+  pre = "house"
+  url = "https://ibsportsacademy.com/"
+  weight = 1
+
+[[footer]]
+  name = "Privacy Policy"
+  url = "https://ibsportsacademy.com/privacy-policy"
+  weight = 10
+
+[[footer]]
+  name = "Terms & Conditions"
+  url = "https://ibsportsacademy.com/terms-and-conditions"
+  weight = 20
+
+[[footer]]
+  name = "Disclaimer"
+  url = "https://ibsportsacademy.com/disclaimer"
+  weight = 30
 
 
 # [[footer]]

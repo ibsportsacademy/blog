@@ -1,0 +1,5 @@
+{{ if eq hugo.Environment "production" }}
+  <!-- Google AdSense script -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.googleAdsense.adsensePublisherID }}"
+       crossorigin="anonymous"></script>
+{{ end }}
