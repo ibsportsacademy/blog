@@ -125,7 +125,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardViewScreenWidth = false
 
 [googleAdsense]
-  adsensePublisherID = "ca-pub-6767962787203929"
+  # adsensePublisherID = "ca-pub-6767962787203929"
 
 [firebase]
   # apiKey = "XXXXXX"
