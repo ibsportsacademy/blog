@@ -13,16 +13,15 @@ heroStyle: background
 > — Aamir Khan x IB Sports Academy
 
 
-
 ## ✨ Magic of Collaboration: IB x Aamir Khan
 
 In a country where cricket often overshadows other sports, something extraordinary happened behind the scenes of a Bollywood production. **Aamir Khan Productions**, while developing their emotionally charged new film **Sitaare Zameen Par**, reached out to IB Sports Academy, not just to borrow a backdrop, but to embed truth, grit, and raw inspiration into the heart of their film.
 
-Over weeks of collaboration, IB provided more than just basketball courts. We provided **youth athletes, creative feedback, location access, technical guidance**, and most importantly — **authenticity**. This wasn’t just a shoot. It was a shared mission.
+Over weeks of collaboration, IB provided more than just basketball courts. We provided **our Head Coach - Ishwar Bhati, youth athletes, creative feedback, location access, technical guidance**, and most importantly, **authenticity**. This wasn’t just a shoot. It was a shared mission.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img src="aamir-khan-ishwar-bhati-basketball-directing-sitaare-zameen-par.jpg" alt="Aamir Khan directing Sitaare Zameen Par Movie meeting Ishwar Bhati IB Sports Academy Head Coach" style="max-width: 100%;" />
-  <figcaption style="font-style: italic;">Reel Meets Real — Aamir Khan steps into character as the Basketball coach Gulshan, guided by the real one: Ishwar Bhati, the Head Coach of IB Sports Academy.</figcaption>
+  <figcaption style="font-style: italic;">Reel Meets Real | Aamir Khan steps into character as the Basketball coach Gulshan, guided by the real one: Ishwar Bhati, the Head Coach of IB Sports Academy and also Karnataka Coach in the movie Sitaare Zameen Par.</figcaption>
 </figure>
 
 It all culminated in a celebratory photoshoot and heartfelt interaction session, bringing together our young athletes, **Head Coach Ishwar Bhati**, and the legend himself, **Aamir Khan**, where stars from two very different worlds met, face to face.
@@ -67,9 +66,25 @@ That’s why IB Sports made sense.
 > We don't just build athletes. We build stories. We shape futures. And we believe, just like this film, that a child’s spark only needs the right sky to shine.
 
 
+## 🎥 Coach on Camera: Ishwar Bhati’s Cameo in *Sitaare Zameen Par*
+
+While much of our collaboration happened behind the scenes, there’s a moment early in *Sitaare Zameen Par* where fiction and reality truly blur.
+
+In the **opening basketball match sequence between Delhi and Karnataka**, audiences catch a special glimpse of **IB Sports Academy’s very own Head Coach, Ishwar Bhati**, stepping into a small but meaningful on-screen role. Portraying the **Karnataka team’s coach**, Coach Bhati appears opposite Aamir Khan, who plays the assistant coach of the Delhi squad.
+
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="sitaare-zameen-par-ishwar-bhati-karnataka-coach-aamir-khan.jpg" alt="Ishwar Bhati cameo in Sitaare Zameen Par as Karnataka Coach" style="max-width: 100%;" />
+  <figcaption style="font-style: italic;">Spot the Coach! Ishwar Bhati, leading the Karnataka Basketball Team in the opening game sequence of Sitaare Zameen Par.</figcaption>
+</figure>
+
+You’ll see him in **multiple background shots**, strategizing from the sidelines, observing the match with the intensity only a real coach could bring. Even his **distinctive car** makes an appearance, a subtle nod to the real people and real stories behind this cinematic journey.
+
+Though it’s a brief role, it’s symbolic: a real-life coach representing thousands like him across India who dedicate their lives to building champions, both on-screen and off.
+
+
 ## 🌠 What This Meant to Our Athletes
 
-For our students, this wasn’t just a photo op. This was representation. This was proof that what they do matters — not just in the eyes of a coach, but in the lens of a camera that will show their world to millions.
+For our students, this wasn’t just a photo op. This was representation. This was proof that what they do matters, not just in the eyes of a coach, but in the lens of a camera that will show their world to millions.
 
 > *“I've seen Aamir Khan on screen all my life. Today, he saw me. That changes everything.”*
 > — An IB Academy player
@@ -85,11 +100,11 @@ They’ll never forget the handshake. The laughter. The moment they became part 
 
 This collaboration isn’t a first, it’s part of a growing legacy. Over the years, IB Sports Academy has partnered with several Bollywood productions, offering real locations, real athletes, and real energy that brings on-screen stories to life.
 
-What makes this journey with Sitaare Zameen Par special is how it deepens that legacy — placing our student-athletes at the heart of a film that celebrates youth, resilience, potential and basketball.
+What makes this journey with Sitaare Zameen Par special is how it deepens that legacy, placing our student-athletes at the heart of a film that celebrates youth, resilience, potential and basketball.
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img src="aamir-khan-student-athlete-ib-sports-academy.jpg" alt="Aamir Khan with players from IB Sports Academy Delhi" style="max-width: 100%;" />
-  <figcaption style="font-style: italic;">Not just a player — a symbol of possibility.</figcaption>
+  <figcaption style="font-style: italic;">Not just a player | A symbol of possibility.</figcaption>
 </figure>
 
 At IB Sports Academy, we continue to open our doors to:
@@ -128,12 +143,12 @@ We’ll be releasing exclusive behind-the-scenes video content on:
 
 Follow along and witness how **cinema and sports can uplift, empower, and unite**.
 
-Because here at IB Sports Academy, we believe — the next blockbuster isn’t a movie. It’s a movement.
+Because here at IB Sports Academy, we believe, the next blockbuster isn’t a movie. It’s a movement.
 
 
 ## 🏀 Ready to Elevate Your Game?
 
-Join the movement! At **IB Sports Academy**, we’re not just building ballers — we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
+Join the movement! At **IB Sports Academy**, we’re not just building ballers, we’re cultivating championship mindsets that instill leadership, resilience, and success both on and off the court.
 
 👉 [Train with us and unleash your potential!](https://ibsportsacademy.com/)  
 🚀 Follow our journey on [{{< icon "instagram" >}} Instagram](https://www.instagram.com/ibsportsacademy/) & [{{< icon "youtube" >}} Youtube](https://www.youtube.com/@IBSportsAcademy).
