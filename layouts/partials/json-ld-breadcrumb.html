@@ -1,0 +1,101 @@
+<script type="application/ld+json">
+{{- $baseURL := site.BaseURL }}
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ $baseURL }}"
+    }
+
+    {{- if in .Permalink "/posts/" }}
+      ,
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Posts",
+        "item": "{{ $baseURL }}posts/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+
+    {{- else if and .IsNode (eq .Section "tags") }}
+      {{/* This is either /tags/ or /tags/<term> */}}
+      {{- if .Data.Term }}
+        ,
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tags",
+          "item": "{{ $baseURL }}tags/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ .Title }}",
+          "item": "{{ .Permalink }}"
+        }
+      {{- else }}
+        ,
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tags",
+          "item": "{{ .Permalink }}"
+        }
+      {{- end }}
+
+    {{- else if and .IsNode (eq .Section "categories") }}
+      {{/* This is either /categories/ or /categories/<term> */}}
+      {{- if .Data.Term }}
+        ,
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Categories",
+          "item": "{{ $baseURL }}categories/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ .Title }}",
+          "item": "{{ .Permalink }}"
+        }
+      {{- else }}
+        ,
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Categories",
+          "item": "{{ .Permalink }}"
+        }
+      {{- end }}
+
+    {{- else if .IsPage }}
+      ,
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+
+    {{- else if .IsSection }}
+      ,
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ .Title }}",
+        "item": "{{ .Permalink }}"
+      }
+    {{- end }}
+  ]
+}
+</script>

@@ -1,0 +1,30 @@
+{{- $name := .Get "name" | default "Basketball Training by IB Sports Academy" -}}
+{{- $description := .Get "description" | default "Watch this video from IB Sports Academy showcasing youth basketball training and coaching." -}}
+{{- $videoID := replace (.Get "embedUrl") "https://www.youtube.com/embed/" "" -}}
+{{- $thumbnail := printf "https://img.youtube.com/vi/%s/maxresdefault.jpg" $videoID -}}
+{{- $embedUrl := .Get "embedUrl" -}}
+{{- $contentUrl := .Get "contentUrl" | default $embedUrl -}}
+{{- $uploadDate := .Get "uploadDate" | default (.Page.PublishDate | time.Format "2006-01-02") -}}
+{{- $duration := .Get "duration" | default "PT1M30S" -}}  {{/* ISO 8601 format (e.g. PT1M30S = 1 min 30 sec) */}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ $name | jsonify }},
+  "description": {{ $description | jsonify }},
+  "thumbnailUrl": {{ $thumbnail | absURL | jsonify }},
+  "uploadDate": "{{ $uploadDate }}",
+  "duration": "{{ $duration }}",
+  "embedUrl": {{ $embedUrl | jsonify }},
+  "contentUrl": {{ $contentUrl | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "IB Sports Academy",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blog.ibsportsacademy.com/logo.png"
+    }
+  }
+}
+</script>

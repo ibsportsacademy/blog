@@ -1,0 +1,139 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+{{ if .Get "default" }}
+  {{ partial "shortcodes/figure.html" . }}
+{{ else }}
+  {{- $url := urls.Parse (.Get "src") }}
+  {{- $altText := .Get "alt" }}
+  {{- $caption := .Get "caption" }}
+  {{- $href := .Get "href" }}
+  {{- $class := .Get "class" }}
+  {{- $target := .Get "target" | default "_blank" }}
+  {{- $nozoom := .Get "nozoom" | default false -}}
+  {{- $figureStyle := .Get "figureStyle" | default "display: flex; flex-direction: column; align-items: center; text-align: center;" -}}
+  {{- $imageStyle := .Get "imageStyle" | default "max-width: 100%;" -}}
+  {{- $captionStyle := .Get "captionStyle" | default "font-style: italic;" -}}
+
+  {{- $resource := or (.Page.Resources.GetMatch (.Get "src")) (resources.Get (.Get "src")) }}
+  {{- $width := "" }}
+  {{- $height := "" }}
+  {{- $format := "" }}
+  {{- if $resource }}
+    {{- $width = $resource.Width }}
+    {{- $height = $resource.Height }}
+    {{- $format = printf "image/%s" $resource.MediaType.SubType }}
+  {{- end }}
+
+  {{/* --- Auto-generate keywords --- */}}
+  {{- $baseText := print $altText " " $caption " " .Page.Title | lower | plainify }}
+  {{- $stopwords := slice "with" "and" "the" "of" "for" "in" "on" "this" "that" "just" "dont" "than" "from" "into" "will" "when" "a" "to" "at" "as" "is" "are" }}
+  {{- $words := (delimit (uniq (apply (split $baseText " ") "strings.TrimSpace" ".")) " ") }}
+  {{- $filteredWords := slice }}
+
+  {{- range (split $words " ") }}
+    {{- if not (in $stopwords .) }}
+      {{- $filteredWords = $filteredWords | append . }}
+    {{- end }}
+  {{- end }}
+
+  {{- $keywords := delimit (uniq $filteredWords) ", " }}
+
+  {{/* --- Always-true keywords to strengthen SEO --- */}}
+  {{- $boostKeywords := slice "IB Sports Academy"
+      "Basketball"
+      "Youth Empowerment"
+      "Basketball Academy India"
+      "Basketball Academy Delhi"
+      "Best Basketball Academy"
+      "Top Basketball Academy in India"
+      "Top Basketball Academy in Delhi"
+      "Youth Basketball Training"
+      "Basketball Coaching for Kids"
+      "Basketball Grassroots Program"
+      "Elite Basketball Coaching"
+      "Basketball Training Delhi NCR"
+      "Number 1 Basketball Academy"
+      "Basketball School Delhi"
+      "Physical Education Delhi"
+      "Delhi Basketball Players"
+      "Basketball Career India"
+      "Skill-Based Basketball Training"
+      "Basketball Motivation India"
+  }}
+  {{- $tagKeywords := .Page.Params.tags | default slice }}
+  {{- $allKeywords := uniq (union $boostKeywords $tagKeywords) }}
+  {{- $finalKeywords := delimit $allKeywords ", " }}
+
+  {{- $galleryURL := .Page.Permalink | default .Page.RelPermalink | absURL }}
+  {{- $galleryTitle := .Page.Title | default "Gallery" }}
+
+  {{- $creator := dict "@type" "Organization" "name" "IB Sports Academy" }}
+  {{- $imageData := dict
+      "@type" "ImageObject"
+      "contentUrl" (.Get "src" | absURL)
+      "url" (.Get "src" | absURL)
+      "thumbnailUrl" (.Get "src" | absURL)
+      "description" $altText
+      "caption" $caption
+      "name" $caption
+      "creator" $creator
+      "copyrightHolder" $creator
+      "width" $width
+      "height" $height
+      "inLanguage" "en"
+      "encodingFormat" $format
+      "keywords" $finalKeywords
+      "associatedArticle" $.Page.Permalink
+      "datePublished" ($.Page.PublishDate | default $.Page.Date | time.Format "2006-01-02")
+      "isPartOf" (dict
+        "@type" "MediaGallery"
+        "name" $galleryTitle
+        "url" $galleryURL
+      )
+  }}
+
+  {{- $current := .Page.Store.Get "imageMeta" -}}
+  {{- $safeSlice := cond (or (not $current) (reflect.IsSlice $current)) $current (slice $current) -}}
+  {{- .Page.Store.Set "imageMeta" (append ($safeSlice | default (slice)) (slice $imageData)) -}}
+
+  <figure style="{{ $figureStyle | safeCSS }}">
+  {{- with $href }}<a href="{{ . }}" {{ with $target }}target="{{ . }}"{{ end }}>{{ end -}}
+  {{- if findRE "^https?" $url.Scheme }}
+      <img class="my-0 rounded-md{{ with $nozoom }} nozoom{{ end }}{{ with $class }} {{ . }}{{ end }}" src="{{ $url.String }}" alt="{{ $altText }}" style="{{ $imageStyle | safeCSS }}" />
+  {{- else }}
+    {{- $resource := "" }}
+    {{- if $.Page.Resources.GetMatch ($url.String) }}
+      {{- $resource = $.Page.Resources.GetMatch ($url.String) }}
+    {{- else if resources.GetMatch ($url.String) }}
+      {{- $resource = resources.Get ($url.String) }}
+    {{- end }}
+    {{- with $resource }}
+      {{- if or $disableImageOptimization (or (eq .MediaType.SubType "svg") (eq .MediaType.SubType "png")) }}
+
+        <img
+          class="my-0 rounded-md{{ with $nozoom }} nozoom{{ end }}{{ with $class }} {{ . }}{{ end }}"
+          src="{{ .RelPermalink }}"
+          alt="{{ $altText }}"
+          style="{{ $imageStyle | safeCSS }}"
+        />
+      {{- else }}
+        <img
+          class="my-0 rounded-md{{ with $nozoom }} nozoom{{ end }}{{ with $class }} {{ . }}{{ end }}"
+          srcset="
+          {{ (.Resize "330x").RelPermalink }} 330w,
+          {{ (.Resize "660x").RelPermalink }} 660w,
+          {{ (.Resize "1024x").RelPermalink }} 1024w,
+          {{ (.Resize "1320x").RelPermalink }} 2x"
+          src="{{ (.Resize "660x").RelPermalink }}"
+          data-zoom-src="{{ (.Resize "1320x").RelPermalink }}"
+          alt="{{ $altText }}"
+          style="{{ $imageStyle | safeCSS }}"
+        />
+      {{- end }}
+    {{- else }}
+      <img class="my-0 rounded-md{{ with $nozoom }} nozoom{{ end }}{{ with $class }} {{ . }}{{ end }}" src="{{ $url.String }}" alt="{{ $altText }}" style="{{ $imageStyle | safeCSS }}" />
+    {{- end }}
+  {{- end }}
+  {{ with $caption }}<figcaption style="{{ $captionStyle | safeCSS }}">{{ . | markdownify }}</figcaption>{{ end }}
+  {{ if $href }}</a>{{ end }}
+  </figure>
+{{- end -}}

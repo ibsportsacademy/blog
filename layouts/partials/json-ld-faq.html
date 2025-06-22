@@ -1,0 +1,22 @@
+{{- $url := .Permalink -}}
+{{- $faqs := .Params.faqs -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "{{ $url }}",
+  "@id": "{{ $url }}#faq",
+  "mainEntity": [
+    {{- range $index, $faq := $faqs }}
+    {
+      "@type": "Question",
+      "name": {{ $faq.question | plainify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $faq.answer | plainify }}
+      }
+    }{{ if lt (add $index 1) (len $faqs) }},{{ end }}
+    {{- end }}
+  ]
+}
+</script>

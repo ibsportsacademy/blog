@@ -168,3 +168,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [rssnext]
   # feedId = ""
   # userId = ""
+
+[params.opengraph]
+  enable = true
+
+[params.twitter_cards]
+  enable = true
+  site = "@ibsportsacademy"

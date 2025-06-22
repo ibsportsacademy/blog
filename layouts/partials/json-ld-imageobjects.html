@@ -1,0 +1,12 @@
+{{- if not (.Page.Store.Get "jsonldRendered") }}
+  {{- .Page.Store.Set "jsonldRendered" true -}}
+
+  {{- with $.Page.Store.Get "imageMeta" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": {{ . }}
+  }
+  </script>
+  {{- end }}
+{{- end }}
