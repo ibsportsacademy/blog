@@ -46,9 +46,11 @@
       "Best Basketball Academy"
       "Top Basketball Academy in India"
       "Top Basketball Academy in Delhi"
+      "Best Basketball Academy Delhi"
+      "Best Basketball Academy near me"
+      "Basketball Academy near me"
       "Youth Basketball Training"
       "Basketball Coaching for Kids"
-      "Basketball Grassroots Program"
       "Elite Basketball Coaching"
       "Basketball Training Delhi NCR"
       "Number 1 Basketball Academy"
@@ -84,6 +86,11 @@
       "keywords" $finalKeywords
       "associatedArticle" $.Page.Permalink
       "datePublished" ($.Page.PublishDate | default $.Page.Date | time.Format "2006-01-02")
+      "mainEntityOfPage" (dict
+        "@type" "WebPage"
+        "name" $galleryTitle
+        "url" $galleryURL
+      )
       "isPartOf" (dict
         "@type" "MediaGallery"
         "name" $galleryTitle

@@ -1,3 +1,5 @@
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+
 {{ if .IsHome -}}
   <script type="application/ld+json">
   {
@@ -19,12 +21,12 @@
     }
   }
   </script>
+
 {{ else if .IsPage }}
-  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": {{ if (in .Permalink "/posts/") }} "BlogPosting" {{ else }} "WebPage" {{ end }},
     "@id": "{{ .Permalink }}",
     "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
     "name": "{{ .Title | safeJS }}",
@@ -43,9 +45,9 @@
     {{ with .ExpiryDate }}"expires": "{{ .Format $iso8601 }}",{{ end }}
     {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
     {{ if .Keywords }}
-    {{ with .Keywords }}"keywords": {{ . }},{{ end }}
+      {{ with .Keywords }}"keywords": {{ . }},{{ end }}
     {{ else }}
-    {{ with .Params.tags }}"keywords": {{ . }},{{ end }}
+      {{ with .Params.tags }}"keywords": {{ . }},{{ end }}
     {{ end }}
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -59,7 +61,18 @@
         "url":  "{{ "logo.png" | absURL }}"
       }
     },
-    "wordCount": "{{ .WordCount }}"
+    "wordCount": "{{ .WordCount }}",
+    {{- $cover := .Resources.GetMatch "cover.*" }}
+    {{- if $cover }}
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ $cover.Permalink }}",
+        "width": {{ $cover.Width }},
+        "height": {{ $cover.Height }}
+      },
+    {{- end }}
+    "genre": "Basketball, Sports, Youth Coaching",
+    "isAccessibleForFree": true
   }]
   </script>
 {{ end }}

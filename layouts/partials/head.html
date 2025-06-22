@@ -161,7 +161,7 @@
   {{ partial "json-ld-imageobjects.html" . }}
   {{ partial "json-ld-organization.html" . }}
   {{ partial "json-ld-breadcrumb.html" . }}
-  <!-- {{ with .Params.video }}{{ partial "json-ld-video.html" . }}{{ end }} -->
+  {{ with .Params.video }}{{ partial "json-ld-video.html" . }}{{ end }}
   {{/* JSON+LD FAQs for blog posts for google rich results */}}
   {{ with .Params.faqs }}
     {{ partial "json-ld-faq.html" $ }}
