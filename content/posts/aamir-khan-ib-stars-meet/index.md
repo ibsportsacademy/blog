@@ -114,8 +114,13 @@ In the **opening basketball match sequence between Delhi and Karnataka**, audien
     caption="Spot the Coach! Ishwar Bhati, leading the Karnataka Basketball Team in the opening game sequence of Sitaare Zameen Par."
 >}}
 
-
 You’ll see him in **multiple background shots**, strategizing from the sidelines, observing the match with the intensity only a real coach could bring. Even his **distinctive car** makes an appearance, a subtle nod to the real people and real stories behind this cinematic journey.
+
+{{< figure
+    src="sitaare-zameen-par-ishwar-bhati-karnataka-coach-aamir-khan-delhi-coach.jpg"
+    alt="Ishwar Bhati cameo in Sitaare Zameen Par as Karnataka Coach with Aamir Khan as Delhi's Assistant Coach"
+    caption="Aamir Khan as Delhi's Assistant Coach and Ishwar Bhati, leading the Karnataka Basketball Team in the opening game sequence of Sitaare Zameen Par."
+>}}
 
 Though it’s a brief role, it reflects the spirit of real-life coaches who dedicate their lives to shaping young athletes across India.
 
