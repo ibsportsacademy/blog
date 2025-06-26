@@ -1,4 +1,7 @@
 <footer id="site-footer" class="py-10 print:hidden">
+  {{ partial "ad-multiplex.html" . }}
+  <br />
+
   {{/* Footer menu */}}
   {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}

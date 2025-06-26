@@ -80,20 +80,19 @@
   weight = 1
 
 [[footer]]
-  name = "Privacy Policy"
-  url = "https://ibsportsacademy.com/privacy-policy"
+  name = "Posts"
+  pageRef = "posts"
   weight = 10
 
 [[footer]]
-  name = "Terms & Conditions"
-  url = "https://ibsportsacademy.com/terms-and-conditions"
+  name = "About"
+  pageRef = "about"
   weight = 20
 
 [[footer]]
-  name = "Disclaimer"
-  url = "https://ibsportsacademy.com/disclaimer"
+  name = "Contact"
+  pageRef = "contact"
   weight = 30
-
 
 # [[footer]]
 #   name = "Tags"

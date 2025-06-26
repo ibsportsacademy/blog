@@ -2,8 +2,8 @@
 title: "IB Sports Academy x Aamir Khan: A Cinematic Slam Dunk with Sitaare Zameen Par"
 date: 2025-05-26
 author: "Ishwar Bhati"
-description: "Behind-the-scenes of a powerful collaboration between IB Sports Academy and Bollywood star Aamir Khan's production for the upcoming film 'Sitaare Zameen Par' – where Bollywood met grassroots sports."
-summary: "A behind-the-scenes journey into the powerful collaboration between IB Sports Academy and Aamir Khan Productions for the movie 'Sitaare Zameen Par' — where Bollywood and grassroots basketball unite."
+description: "Behind-the-scenes of a powerful collaboration between IB Sports Academy and Bollywood star Aamir Khan's production for the upcoming film 'Sitaare Zameen Par', where Bollywood met grassroots sports."
+summary: "A behind-the-scenes journey into the powerful collaboration between IB Sports Academy and Aamir Khan Productions for the movie 'Sitaare Zameen Par', where Bollywood and grassroots basketball unite."
 tags: ["Aamir Khan", "Sitaare Zameen Par", "IB Sports Academy", "Basketball", "Youth Empowerment"]
 categories: ["Bollywood Collaboration"]
 heroStyle: background
@@ -89,6 +89,8 @@ He signed basketballs. Jerseys. Even blank pages, each a canvas for dreams yet t
 
 Produced by the visionary Aamir Khan and directed by R. S. Prasanna, **Sitaare Zameen Par** is a spiritual successor to **Taare Zameen Par** but this time, the spotlight is on the **hidden champions of the field, the court, and beyond**.
 
+{{< ad-inline-blog >}}
+
 This movie is a celebration of children who defy odds, who express themselves not through conventional excellence but through passion, perseverance, and raw talent. Themes of **neurodiversity**, **resilience**, **dream-chasing**, and **mentorship** echo through every frame.
 
 {{< figure
@@ -124,6 +126,7 @@ You’ll see him in **multiple background shots**, strategizing from the sidelin
 
 Though it’s a brief role, it reflects the spirit of real-life coaches who dedicate their lives to shaping young athletes across India.
 
+{{< ad-inline-single >}}
 
 ## 🌠 What This Meant to Our Athletes
 
