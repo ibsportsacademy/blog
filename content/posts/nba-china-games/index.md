@@ -27,11 +27,15 @@ heroStyle: background
 
 Indian coaches travelling to China for this programme include Jose Sebastian (Thiruvanathapuram), Shabana Patel (Mumbai), Ravi Kumar (Bengaluru), Ganesh Prabhu (Chennai), Ishwar (New Delhi), Tua Ghatak (Kolkata), Ibrahim Rose Khan (Hyderabad), and Ravinder Kaur (Punjab).
 
+{{< ad-inline-blog >}}
+
 The coaches took part in the seventh annual NBA Fan Day event in Shanghai on October 4 and then attended the two games in Shanghai and Shenzhen later in the week. Even though it's just the preseason, the coaches relished some top-notch NBA action and gleaned from coaches like Brett Brown and Rick Carlisle on the sidelines.
 
 ## Ishwar Bhati’s Coaching Philosophy
 
 Ishwar ignited the passion for basketball admired by his coach himself. The ideology of being **"firm in the basics and smooth with the finals"** has pushed boundaries for his students to reach nationals. In 15 years of his professional experience, he has managed to develop a core liking for the sport in his school, ITL Public School, Dwarka. Students not only want to play the sport for the school, but they even want to pursue it for higher education.
+
+{{< ad-inline-single >}}
 
 ## IB Sports Academy’s Vision
 

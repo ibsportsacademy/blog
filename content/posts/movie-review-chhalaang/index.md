@@ -59,6 +59,8 @@ Meanwhile, the blue team, the winners, are pumped, until their coach hits them w
 
 > “80 points se haarne waali team sirf 8 points se haari hai bas. Nothing to celebrate.”
 
+{{< ad-inline-blog >}}
+
 That’s not just a reality check, it’s a celebration hijacked by perfectionism. You can see it on their faces: their joy replaced with confusion, maybe even doubt.
 
 And this is where it hit me like a scene from The Matrix:
@@ -80,6 +82,8 @@ After the underdogs pull off the unthinkable and win, Coach Montu doesn’t just
 That line hit deep. Every coach, every teacher has heard some version of this. Parents dream of greatness for their kids, but often forget the value of supporting them through the ups and downs. The movie shows how the other teacher and coach's father visits each parent, one by one, convincing them not just to *let* their kids play, but to truly **believe** in them.
 
 We need more of that. Because **Sports is not a Distraction. It’s a Discipline!** It teaches resilience, time management, leadership, respect, health, humility, and confidence. A basketball court or a football field is just as much a classroom as any other.
+
+{{< ad-inline-single >}}
 
 ## 👨‍🏫 What a Coach Can Do
 
@@ -104,6 +108,8 @@ Here are some of the most powerful messages from *Chhalaang* that every parent, 
 - **School sports are serious.** It’s not just “extra” activity. It’s essential.
 - **Coaches shape futures.** With the right mix of discipline and inspiration, a coach can change lives.
 - **Balance is key.** Sports and studies must go hand in hand, for full development, not just marksheets.
+
+{{< ad-inline-blog >}}
 
 ## 💬 Coach’s Corner
 

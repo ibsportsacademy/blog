@@ -18,9 +18,13 @@ Basketball is a popular sport in India and is played by millions of people daily
 
 **The popularity of basketball in India is on the rise thanks to the Indian Super League and the NBA.** Basketball has become a stable career for many people in India. Many people from rural areas now seek a livelihood playing professional basketball in India. **This has effectively transformed a once-neglected sport into one that has widespread support.** As more people seek to make a living from basketball, the sport will only gain momentum in India.
 
+{{< ad-inline-blog >}}
+
 ## Basketball vs Football in India
 
 Basketball is only marginally more popular than football in India. Both sports are national pastimes and are broadcast daily on television channels. Many fans follow their favourite teams through the season via live games or on television broadcasts.
+
+{{< ad-inline-single >}}
 
 > Although basketball has several loyal fans, it lacks the same level of mass support as football does. In addition, many fans prefer football's more physical nature over basketball's slower tempo-oriented style. Nevertheless, basketball is growing in popularity among Indian fans of both sports.
 
