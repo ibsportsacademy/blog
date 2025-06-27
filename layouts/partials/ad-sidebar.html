@@ -1,12 +1,22 @@
-{{ if eq hugo.Environment "production" }}
-<!-- Auto Ad for Sidebar -->
-<ins class="adsbygoogle"
-     style="display:block; width:100%; max-width:267px;"
-     data-ad-client="{{ site.Params.googleAdsense.adsensePublisherID }}"
-     data-ad-slot="3715251203"
-     data-ad-format="vertical"
-     data-full-width-responsive="false"></ins>
+<!-- Auto Ad for Sidebar - Only run on desktop (>=1024), not mobile screens -->
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+document.addEventListener("DOMContentLoaded", function () {
+    if (window.innerWidth >= 1024) {
+        {{ if eq hugo.Environment "production" }}
+        const container = document.getElementById("ad-sidebar-container");
+        if (container) {
+            container.innerHTML = `
+                <ins class="adsbygoogle"
+                     style="display:block; width:100%; max-width:267px;"
+                     data-ad-client="{{ site.Params.googleAdsense.adsensePublisherID }}"
+                     data-ad-slot="3715251203"
+                     data-ad-format="vertical"
+                     data-full-width-responsive="false"></ins>
+            `;
+            // Push the ad after it’s injected
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        }
+        {{ end }}
+    }
+});
 </script>
-{{ end }}
