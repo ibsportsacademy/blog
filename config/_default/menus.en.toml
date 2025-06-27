@@ -78,6 +78,10 @@
   pre = "house"
   url = "https://ibsportsacademy.com/"
   weight = 1
+  title = "https://ibsportsacademy.com/"
+  
+  [footer.params]
+    newtab = true
 
 [[footer]]
   name = "Posts"
@@ -93,6 +97,33 @@
   name = "Contact"
   pageRef = "contact"
   weight = 30
+
+[[footer]]
+  name = "Privacy Policy"
+  url = "https://ibsportsacademy.com/privacy-policy"
+  weight = 40
+  newtab = true
+
+  [footer.params]
+    newtab = true
+
+[[footer]]
+  name = "Terms & Conditions"
+  url = "https://ibsportsacademy.com/terms-and-conditions"
+  weight = 50
+  newtab = true
+
+  [footer.params]
+    newtab = true
+
+[[footer]]
+  name = "Disclaimer"
+  url = "https://ibsportsacademy.com/disclaimer"
+  weight = 60
+  newtab = true
+
+  [footer.params]
+    newtab = true
 
 # [[footer]]
 #   name = "Tags"
