@@ -28,7 +28,7 @@ His training at the **IB Sports Academy** has truly helped me develop a strong f
 
 He helped me to shoot the basketball much better as well as **work on my weaknesses such as left-hand layups and dribbling**. He made sure that I gave my best every day. Most importantly, his continued encouragement and enthusiasm never failed to keep me motivated.
 
-{{< ad-inline-blog >}}
+{{< ad-inline-single-1 >}}
 
 ## Balancing Studies and Sports
 
@@ -42,7 +42,7 @@ Dedicating time to basketball as well as studies helped me **improve my time man
 
 > **Basketball is a game with a lot of communication**, and this in turn has translated into my day-to-day life in being able to communicate effectively with my peers and teachers as well as being able to do tasks as a team/group.
 
-{{< ad-inline-single >}}
+{{< ad-inline-single-2 >}}
 
 The most important thing I learnt playing basketball is **hard work and perseverance**. There is no replacement for hard work, and playing sports has helped me to bring that relentlessness into my studies and day-to-day life.
 

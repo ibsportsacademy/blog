@@ -89,7 +89,7 @@ He signed basketballs. Jerseys. Even blank pages, each a canvas for dreams yet t
 
 Produced by the visionary Aamir Khan and directed by R. S. Prasanna, **Sitaare Zameen Par** is a spiritual successor to **Taare Zameen Par** but this time, the spotlight is on the **hidden champions of the field, the court, and beyond**.
 
-{{< ad-inline-blog >}}
+{{< ad-inline-single-1 >}}
 
 This movie is a celebration of children who defy odds, who express themselves not through conventional excellence but through passion, perseverance, and raw talent. Themes of **neurodiversity**, **resilience**, **dream-chasing**, and **mentorship** echo through every frame.
 
@@ -126,7 +126,7 @@ You’ll see him in **multiple background shots**, strategizing from the sidelin
 
 Though it’s a brief role, it reflects the spirit of real-life coaches who dedicate their lives to shaping young athletes across India.
 
-{{< ad-inline-single >}}
+{{< ad-inline-single-2 >}}
 
 ## 🌠 What This Meant to Our Athletes
 

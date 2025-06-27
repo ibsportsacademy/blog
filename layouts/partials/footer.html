@@ -1,6 +1,8 @@
 <footer id="site-footer" class="py-10 print:hidden">
-  {{ partial "ad-multiplex.html" . }}
-  <br />
+  {{ if and (.IsPage) (eq .Type "posts") }}
+      {{ partial "ad-multiplex.html" . }}
+      <br />
+  {{ end }}
 
   {{/* Footer menu */}}
   {{ if .Site.Params.footer.showMenu | default true }}

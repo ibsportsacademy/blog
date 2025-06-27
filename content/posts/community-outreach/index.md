@@ -33,7 +33,7 @@ Through sports, we not only **_teach the youth how to be healthy both physically
 
 Our **_main motive of starting a community outreach program was to give back to the society that has given us so much starting with the youth._** This program gives us the ability to influence the next generation to be better and to do better. Especially when it comes to children, we believe that the things that you teach them at a young age, they can carry it well into their future as they are impressionable. You will also be **_planting the idea of the importance of focusing on community service and outreach programs._** And as a result, it will influence their future, and they can also influence their parents and other siblings.
 
-{{< ad-inline-blog >}}
+{{< ad-inline-single-1 >}}
 
 ## Giving Back Through Coaching
 
@@ -45,9 +45,9 @@ One of the key components for coaches is to teach the student-athletes about ser
 
 ![student-athlete of Don Bosco, doing basketball drills training athletes by IB Sports Academy](don-bosco-3.jpg)
 
-{{< ad-inline-single >}}
-
 As the first step towards community outreach, we have collaborated with Don Bosco Ashalayam, New Delhi. The kind of enthusiasm they showed while training was beyond anything that we have ever seen. Dedicating our time and efforts to a community that truly deserves it made it possible for us to conduct our program with them. With this, we hope to have many such programs and we hope to conduct many more workshops for a better and brighter future.
+
+{{< ad-inline-single-2 >}}
 
 ## 🏀 Ready to Elevate Your Game?
 

@@ -30,7 +30,7 @@ Whether you're a beginner or an advanced player, this camp is designed to help y
 
 🎽 All campers will receive a training kit, T-shirt, and performance report card.
 
-{{< ad-inline-blog >}}
+{{< ad-inline-single-1 >}}
 
 ## 🎯 Why Join IB Basketball Camp?
 
@@ -42,7 +42,7 @@ Because it’s more than just training — it’s a stepping stone to:
 
 This is your chance to **transform your game** and be part of a community that lives and breathes basketball.
 
-{{< ad-inline-single >}}
+{{< ad-inline-single-2 >}}
 
 ## 📝 How to Register
 
