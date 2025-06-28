@@ -5,6 +5,7 @@
 {{ partial "analytics/ga.html" }}
 {{ end }}
 {{ with site.Params.googleAdsense.adsensePublisherID }}
+{{ partial "analytics/ad_block_recovery.html" }}
 {{ partial "analytics/adsense.html" }}
 {{ end }}
 {{ with site.Params.umamiAnalytics.websiteid }}
